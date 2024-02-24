@@ -5,7 +5,6 @@ class Point:
         self.x = x
         self.y = y
 
-
 class Line:
     def __init__(
         self,
